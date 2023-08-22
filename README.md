@@ -7,7 +7,7 @@
 2. Run the program by using: `java Test`
 
 ## Program description:
-This java program contains different implementations of the most popular sorting algorithms:
+This java program contains and tests out implementations of the most popular sorting algorithms:
 - Selection Sort
 - Insertion Sort
 - CorrectInPlaceQuickSort (and commented inPlaceQuickSort)
