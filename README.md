@@ -3,8 +3,8 @@
 (This program was made for a university assignment)
 
 ## How to run:
-1. Compile the Java code by running: `javac Hovedprogram.java`
-2. Run the program by using: `java Hovedprogram`
+1. Compile the Java code by running: `javac Test.java`
+2. Run the program by using: `java Test`
 
 ## Program description:
 This java program contains different implementations of the most popular sorting algorithms:
